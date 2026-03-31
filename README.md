@@ -5,3 +5,5 @@ It contains a website that I built to help first time laptop buyers to understan
 It also contains some suggested best performing laptops in certain price brackets.
 <br>
 At the end, it contains a form to ask for reviews and suggestions regarding the website.
+<br>
+That's it for my first project. Many more to come!!
